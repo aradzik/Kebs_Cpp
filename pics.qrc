@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>img/chory.png</file>
+        <file>img/grac.png</file>
+        <file>img/je.png</file>
+        <file>img/sen.png</file>
+        <file>img/smutny.png</file>
+        <file>img/spac.png</file>
+        <file>img/spi.png</file>
+        <file>img/szczesliwy.png</file>
+        <file>img/tako.png</file>
+        <file>img/zabawa.png</file>
+    </qresource>
+</RCC>
